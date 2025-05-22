@@ -111,6 +111,14 @@ print('This is a string ,enclosed in quotes')
 print(" String in quotes . ")
 print(5 // 4)
 print(6 % 4)
-
+# may 22 2025
+# Exercise operator precedence
+print((5 + 4) * 10 / 2)
+print(((5 + 4) * 10) / 2)
+print((5 + 5) * 10 / 2)
+print(5 + (4 * 10) / 2)
+print(5 + 4 * 10 // 2)
+print(33 / 4)
+print(32 / 4)
 
 
