@@ -1,0 +1,84 @@
+ sept 30 2025
+
+    Python type of programming environment files:
+   Script -
+     type of file you save with .py
+   when using  pycharm or atom editor
+
+   Interactive -
+     python type is jupyter note ,
+     or small editor, line by line editing
+
+  Program steps of program flow :
+
+    Like a recipe or installation  instructions,
+    a program in a sequence of steps to be done
+    by order.
+
+    Some  steps are conditional , they may be skipped
+
+    Sometimes a step or group of steps is to be repeated
+
+    Sometimes we store a set of steps to be used over
+    and over are needed several places throughout the
+
+    What do we put in a script , well it's a series of
+    steps. Now, there a couple basic patterns that we
+    use , we compose them .
+    The most basic pattern is  what's called sequential
+
+   Conditional is sort of intelligent where you're doing
+   something and  then may or may not be doing something
+   Do , do , do do , something , maybe not, and you have
+   this if
+
+      if -  this statement is false , do some other
+        statement
+
+     Numeric Expressions
+
+     xx = 2
+     xx = xx + 2
+     print(xx)
+     4
+
+ oct. 4 , 2025
+
+  Scalar objects Scalar objects Scalar objects
+
+  int - represents integers , ex, 5, -100
+  int represents integers, ex 2, -30
+  int represents integers , ex. 70, -5
+
+  float - represents real numbers, ex. 3.27 , 2.0
+  float represents real numbers , ex 5.4, 5.0
+  float represents real numbers, ex. 6.3, 9.0
+
+  bool -represents Boolean values True and False
+  Bool represents boolean values True and False
+  bool represents boolean  False and True
+
+ NoneType special and has none value , NOne
+ NoneType  - special and has one value, None
+ NoneType - special and has one value, None
+
+ Can use type() - to see the type of an object
+ Can use type() to see the type of an object
+
+ Dont worry, dont over think problem ,  find solution
+
+       Scalar objects explained
+       scalar scalar and scalars.
+   IN Python a scalar object represents a single ,
+   indivisible value. Unlike collection types like
+   lists, tuples, or dictionaries which can hold
+   multiple items, scalar objects hold on piece of
+   data . They are fundamental building blocks for
+   more complex data structures.
+
+   And the shell tells us what the output is. So just
+   to reiterate , int, float, bool, Nonetype are types
+   of objects.
+   To reiterate, int, float , bool , NoneType are types
+   of objects. And there can be many different objects
+   you can create of that type 
