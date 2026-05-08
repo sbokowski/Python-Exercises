@@ -1,0 +1,15 @@
+       Virtual environment 
+
+                 Explanation in simple terms
+
+     What the story is behind .basically safeguarding
+      your. application from other versions  .
+     So you have less clutter , doesn’t clutter you operating	
+	system and also that your program actually moves
+	safely in other environment as Linux , Mac or other 
+	peoples OS, computer. So the most important part
+	of it is, lets just say that , so just read up on it .
+      We can make a little essay paragraph about it on
+	your blog page.  Alright 
+ 
+ 
