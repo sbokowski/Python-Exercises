@@ -1,0 +1,25 @@
+ jupyter note book / jupyter lab 
+
+date: shaun bokowski
+ june 9 2026 
+
+ through the course , we will have markdown text as explanation.
+if you ever watn to write another code cell. 
+     click on a cell below or any to edit or add , do 6 times 
+  then delete 
+      note:
+  and you should be able to print whatever you want here.
+using python print statement , using markdown cell, take 
+notes please, 
+
+note: one thing we want to point out is this special extension 
+of the notbook file, this .ipynb - means that you actually  cant
+double click on it, expect it to open. 
+
+note: 
+open .ipnb file : You should only open it up in jupyter note book
+so it doesnt confuse settings!!! 
+
+this file type will open in visual studio code, though dont open
+them, right now.  
+ 
